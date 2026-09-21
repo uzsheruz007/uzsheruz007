@@ -124,6 +124,8 @@ Interested in combining modern software engineering with artificial intelligence
 
 <div align="center">
 
+<img src="assets/contributions.svg" alt="Contribution graph" width="100%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzsheruz007&hide_border=true&background=0d1117&ring=22d3ee&fire=1f6feb&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=22d3ee&sideLabels=8b949e&dates=8b949e" alt="Contribution streak" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0b2a4a,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
