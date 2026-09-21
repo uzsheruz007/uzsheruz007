@@ -102,10 +102,10 @@ Interested in combining modern software engineering with artificial intelligence
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=uzsheruz007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=1f6feb&text_color=c9d1d9&ring_color=22d3ee" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzsheruz007&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzsheruz007&hide_border=true&background=0d1117&ring=22d3ee&fire=1f6feb&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=22d3ee&sideLabels=8b949e&dates=8b949e" alt="Streak" />
+<img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
+<img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+<img width="49%" src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 
 </div>
 
@@ -113,16 +113,28 @@ Interested in combining modern software engineering with artificial intelligence
 
 ## `> featured_projects`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/uzsheruz007/Zperiod"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=uzsheruz007&repo=Zperiod&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=1f6feb&text_color=c9d1d9" alt="Zperiod" /></a>
-<a href="https://github.com/uzsheruz007/Agrotex"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=uzsheruz007&repo=Agrotex&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=1f6feb&text_color=c9d1d9" alt="Agrotex" /></a>
+### 🧪 [Zperiod](https://github.com/uzsheruz007/Zperiod)
+Interactive periodic table with 3D atoms.<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22d3ee)
 
-</div>
+</td>
+<td width="50%">
+
+### 🌱 [Agrotex](https://github.com/uzsheruz007/Agrotex)
+Agriculture web platform · [Live demo](https://uzsheruz007.github.io/Agrotex/)<br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## `> contribution_snake`
+## `> contribution_activity`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/uzsheruz007/uzsheruz007/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
