@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0b2a4a,100:0ea5e9&height=240&section=header&text=Sherqobil%20Ishqobilov&fontSize=46&fontColor=e6edf3&fontAlignY=42&desc=Software%20Engineer%20%26%20Full-Stack%20Developer&descSize=18&descColor=22d3ee&descAlignY=62&animation=fadeIn" width="100%" alt="Sherqobil Ishqobilov" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0b2a4a,100:0ea5e9&height=240&section=header&text=Sherqobil%20Ishqobilov&fontSize=46&fontColor=e6edf3&fontAlignY=42&desc=Software%20Engineer%20and%20Full-Stack%20Developer&descSize=18&descColor=22d3ee&descAlignY=62&animation=fadeIn" width="100%" alt="Sherqobil Ishqobilov" />
 
 <a href="https://github.com/uzsheruz007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+scalable+web+applications;Backend+systems+%26+REST+APIs;AI-powered+solutions+%26+automation;Linux+%C2%B7+Docker+%C2%B7+Server+infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+scalable+web+applications;Backend+systems+and+REST+APIs;AI-powered+solutions+and+automation;Linux+%C2%B7+Docker+%C2%B7+Server+infrastructure" alt="Typing SVG" />
 </a>
 
 <br/><br/>
